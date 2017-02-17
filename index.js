@@ -1,0 +1,1 @@
+var = maurice = maurice *2;
